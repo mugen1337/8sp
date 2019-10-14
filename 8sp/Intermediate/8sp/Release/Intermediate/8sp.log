@@ -1,0 +1,11 @@
+﻿  Main.cpp
+C:\Users\mugen\source\repos\8sp\8sp\Main.cpp(80,18): warning C4100:  'b': 引数は関数の本体部で 1 度も参照されません。
+     ライブラリ C:\Users\mugen\source\repos\8sp\Intermediate\8sp\Release\8sp.lib とオブジェクト C:\Users\mugen\source\repos\8sp\Intermediate\8sp\Release\8sp.exp を作成中
+  コード生成しています。
+  1 of 459 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  8sp.vcxproj -> C:\Users\mugen\source\repos\8sp\Intermediate\8sp\Release\8sp.exe
+  C:\Users\mugen\source\repos\8sp\Intermediate\8sp\Release\8sp.exe
+  1 個のファイルをコピーしました

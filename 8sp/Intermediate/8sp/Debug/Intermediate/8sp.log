@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\mugen\source\repos\8sp\8sp\Main.cpp(80,18): warning C4100:  'b': 引数は関数の本体部で 1 度も参照されません。
+C:\Users\mugen\source\repos\8sp\8sp\Main.cpp(80,18): warning C4100: C:\Users\mugen\source\repos\8sp\8sp\Main.cpp(16) : warning C4715: 'posEmp': 値を返さないコントロール パスがあります。
+C:\Users\mugen\source\repos\8sp\8sp\Main.cpp(80,18): warning C4100: C:\Users\mugen\source\repos\8sp\8sp\Main.cpp(35) : warning C4701: 初期化されていない可能性のあるローカル変数 'emptyDis' が使用されます
+  8sp.vcxproj -> C:\Users\mugen\source\repos\8sp\Intermediate\8sp\Debug\8sp(debug).exe
+  C:\Users\mugen\source\repos\8sp\Intermediate\8sp\Debug\8sp(debug).exe
+  1 個のファイルをコピーしました
